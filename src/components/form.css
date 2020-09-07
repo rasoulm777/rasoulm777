@@ -1,0 +1,20 @@
+.sabt {
+  margin: 30px 120px 10px 0;
+}
+.forms {
+  margin: 30px 120px 10px 0;
+}
+.inputs {
+  display: flex;
+  justify-content: center;
+  margin: 30px auto;
+}
+.btnmodal{
+    display: flex;
+  justify-content: center;
+    margin: 30px auto;
+    
+}
+.pp{
+margin: 20px 0;
+}

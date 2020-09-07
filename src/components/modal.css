@@ -1,0 +1,17 @@
+.field{
+    display: flex;
+  justify-content: center;
+  margin: 30px auto;
+}
+.timer{
+    display: flex;
+  justify-content: center;
+  margin: 30px auto;
+}
+#btn{
+border:1px solid rgb(23, 3, 70);
+box-shadow: darkgrey;
+background-color: rgb(208, 228, 238);
+padding: 4px 16px;
+color: black;
+}
